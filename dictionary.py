@@ -18,7 +18,7 @@ def translate(word):
     else:
         return "The word doesn't exist, please double check it."
 
-
+while
 word = input("Enter word: ")
 
 output = translate(word)
